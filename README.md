@@ -6,7 +6,7 @@ Developed a Sales and Finance Analytics project for AtliQ Hardwares, delivering 
 
    1. Create a  [_customer performance report_](https://github.com/kushagraGpt2001/Atliq_Hardware_Financial_Report_Excel/blob/main/Customer%20Performance%20Report.pdf)
 
-   2. Conduct a comprehensive comparison between market performance and sales targets
+   2. Conduct a comprehensive comparison between [_market performance and sales targets_](https://github.com/kushagraGpt2001/Atliq_Hardware_Financial_Report_Excel/blob/main/Market%20Performance%20vs%20Target%20Report.pdf.pdf)
 
 - __Purpose of sales analytics:__ Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -17,9 +17,9 @@ Developed a Sales and Finance Analytics project for AtliQ Hardwares, delivering 
 # Finance Report :
 - __Project objective:__
 
-1. Create Profit and Loss (P&L) reports by Fiscal Year & Months
+1. Create Profit and Loss (P&L) reports by [_Fiscal Year_](https://github.com/kushagraGpt2001/Atliq_Hardware_Financial_Report_Excel/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf) & [_Months_](https://github.com/kushagraGpt2001/Atliq_Hardware_Financial_Report_Excel/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-2. Create Profit and Loss (P&L) reports by Markets
+2. Create Profit and Loss (P&L) reports by [_Markets_](https://github.com/kushagraGpt2001/Atliq_Hardware_Financial_Report_Excel/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 - __Purpose of sales analytics:__ Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
