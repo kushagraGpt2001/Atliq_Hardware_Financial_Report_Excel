@@ -4,7 +4,7 @@ Developed a Sales and Finance Analytics project for AtliQ Hardwares, delivering 
 # Sales Report :
 - __Project objective:__
 
-   1. Create a customer performance report
+   1. Create a  [_customer performance report_](https://github.com/kushagraGpt2001/Atliq_Hardware_Financial_Report_Excel/blob/main/Customer%20Performance%20Report.pdf)
 
    2. Conduct a comprehensive comparison between market performance and sales targets
 
